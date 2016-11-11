@@ -1,6 +1,6 @@
 ---
- name: dom_autoscroller demo
- description: The demo for dom_autoscroller
+ name: dom-autoscroller demo
+ description: The demo for dom-autoscroller
  authors:
    - Quentin Engles
  resources:
