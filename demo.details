@@ -1,0 +1,14 @@
+---
+ name: dom_autoscroller demo
+ description: The demo for dom_autoscroller
+ authors:
+   - Quentin Engles
+ resources:
+   - https://unpkg.com/dragula/dist/dragula.css
+   - https://unpkg.com/dragula/dist/dragula.js
+   - https://unpkg.com/dom-autoscroller/dist/dom-autoscroller.js
+ normalize_css: no
+ ...
+
+Get resources from https://unpkg.com/#/
+http://doc.jsfiddle.net/use/github_read.html
