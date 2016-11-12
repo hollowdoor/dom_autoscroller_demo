@@ -5,6 +5,7 @@
    - Quentin Engles
  resources:
    - https://unpkg.com/dragula/dist/dragula.css
+   - https://unpkg.com/dom-autoscroller/dist/dom-autoscroller.js
  normalize_css: no
  wrap: b
  ...
