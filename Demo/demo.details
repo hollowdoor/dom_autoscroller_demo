@@ -3,6 +3,8 @@
  description: The demo for dom-autoscroller
  authors:
    - Quentin Engles
+ resources:
+   - https://unpkg.com/dragula/dist/dragula.css
  normalize_css: no
  wrap: b
  ...
