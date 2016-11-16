@@ -6,7 +6,6 @@
  resources:
    - https://unpkg.com/dragula@3.7.2/dist/dragula.css
    - https://unpkg.com/dom-autoscroller@2.2.3/dist/dom-autoscroller.js
-   - https://unpkg.com/dragula@3.7.2/dist/dragula.js
  normalize_css: no
  wrap: b
  ...
